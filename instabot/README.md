@@ -1,1 +1,1 @@
-Most grams by label and degree 1 http://htmlpreview.github.io/?https://github.com/marclelamy/viz/blob/main/instabot/most_grams_by_label_and_degree_1.html
+Distribution of Labels by Domain_Na_Flag https://htmlpreview.github.io/?https://github.com/marclelamy/viz/blob/main/instabot/distribution_of_labels_by_domain_na_flag.html
