@@ -77,7 +77,9 @@
 
 **Distribution of labels for each category of category_name for bots only**
 
-![](https://htmlpreview.github.io/?https://github.com/marclelamy/viz/blob/main/instabot/distribution_of_labels_for_each_category_of_category_name_for_bots_only.png)[Link for interactibility](https://htmlpreview.github.io/?https://github.com/marclelamy/viz/blob/main/instabot/distribution_of_labels_for_each_category_of_category_name_for_bots_only.html)
+![](https://htmlpreview.github.io/?https://github.com/marclelamy/viz/blob/main/instabot/distribution_of_labels_for_each_category_of_category_name_for_bots_only.png)
+
+[Link for interactibility](https://htmlpreview.github.io/?https://github.com/marclelamy/viz/blob/main/instabot/distribution_of_labels_for_each_category_of_category_name_for_bots_only.html)
 
 
 **Distribution of labels for each category of business_category_name for bots and legit users**
